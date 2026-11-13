@@ -2,6 +2,8 @@
 
 # STFT-Based Melody Extraction and Chord Recognition
 
+![Language: MATLAB](https://img.shields.io/badge/Language-MATLAB-E16737?style=flat-square) ![Method: STFT](https://img.shields.io/badge/Method-STFT-4B5563?style=flat-square) ![Type: Course Project](https://img.shields.io/badge/Type-Course%20Project-64748B?style=flat-square)
+
 A MATLAB project for the **Signal Analysis and Processing** course at Zhejiang University. It implements an audio-to-musical-structure pipeline using short-time Fourier analysis, multi-pitch tracking and chord-template matching.
 
 ## Processing pipeline

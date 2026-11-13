@@ -2,6 +2,8 @@
 
 # STFT-Based Melody Extraction and Chord Recognition
 
+![Language: MATLAB](https://img.shields.io/badge/Language-MATLAB-E16737?style=flat-square) ![Method: STFT](https://img.shields.io/badge/Method-STFT-4B5563?style=flat-square) ![Type: Course Project](https://img.shields.io/badge/Type-Course%20Project-64748B?style=flat-square)
+
 **Signal Analysis and Processing Course Project**
 
 ## 1. 项目概述
